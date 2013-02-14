@@ -1,7 +1,7 @@
 C# Refactoring Example
 ======================
 
-Credits to Robert C. Martin for the example code and walkthrough
+Credits to Robert C. Martin for the example code and walkthrough.
 For those curious about the Algorithm used here, it is explained on
 [Wikipedia](http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
 
